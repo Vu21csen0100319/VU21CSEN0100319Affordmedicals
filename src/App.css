@@ -1,0 +1,17 @@
+/* src/App.css */
+.product-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-family: 'Poppins', sans-serif;
+}
+
+.product-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
